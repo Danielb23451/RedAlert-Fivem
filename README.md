@@ -4,6 +4,6 @@
 דוגמה:
 <br/>
 <br/>
-![image](https://red-alerts.xyz/fivem2.png)
+![image](https://redalerts.xyz/fivem2.png)
 <br/>
 תודה רבה מאוד לitayz על יצירת הסקריפט (Discord ID: 937283299821387826)
